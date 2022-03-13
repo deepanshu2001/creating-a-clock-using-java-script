@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: url('clock.png');
+    height: 50vh;
+}
+header{
+    background-color: #bec4a000;
+    height: 50px;
+}
+
+nav li a{
+    color: white;
+    text-decoration: none;
+}
+
+nav li{
+    display: inline-block;
+    margin: 0px 49px;
+    font-size: 23px;
+}
+
+.btn{
+    position: absolute;
+    right: 16px;
+    top: 8px;
+    width: 120px;
+    height: 28px;
+    background: bisque;
+    border: 2px solid #aaaf98;
+
+}
+
+.container{
+    width: 523px;
+    text-align: center;
+    position: \]\];
+    margin: 246px auto;
+    height: 315px;
+    border-radius: 30px;
+    color: white;
+}
